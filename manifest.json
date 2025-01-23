@@ -9,6 +9,14 @@
         "imageUrl": "https://raw.githubusercontent.com/intro-skipper/intro-skipper/10.10/images/logo.png",
         "versions": [
             {
+                "version": "1.10.10.15",
+                "changelog": "- See the full changelog at [GitHub](https://github.com/Moorderer/intro-skipper2/releases/tag/10.10/v1.10.10.15)\n",
+                "targetAbi": "10.10.4.0",
+                "sourceUrl": "https://github.com/Moorderer/intro-skipper2/releases/download/10.10/v1.10.10.15/intro-skipper-v1.10.10.15.zip",
+                "checksum": "306b24e40653710db77af5cd5ee0687b",
+                "timestamp": "2025-01-23T21:57:02Z"
+            },
+            {
                 "version": "1.10.10.14",
                 "changelog": "- See the full changelog at [GitHub](https://github.com/intro-skipper/intro-skipper/releases/tag/10.10/v1.10.10.14)\n",
                 "targetAbi": "10.10.4.0",
